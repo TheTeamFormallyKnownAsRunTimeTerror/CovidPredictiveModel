@@ -1,1 +1,1 @@
-The Covid prediction model will live here.
+The Covid-19 prediction model will live here.
